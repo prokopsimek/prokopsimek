@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-I currently work as a CTO at [DX Heroes](https://dxheroes.io) in 📍 Prague. Connect with me on [LinkedIn](https://www.linkedin.com/in/prokopsimek/) or follow me on Twitter. 
+I currently work as a CTO at [DX Heroes](https://dxheroes.io) in 📍 Prague. Connect with me on [LinkedIn](https://www.linkedin.com/in/prokopsimek/) or follow me on [Twitter](https://twitter.com/prokopsim).
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/prokopsim?style=social)
 
