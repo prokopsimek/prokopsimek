@@ -16,6 +16,14 @@ I currently work as a CTO at [DX Heroes](https://dxheroes.io) in 📍 Prague. Co
 ### Check out this **open source** project
 
 <div>
+    <a href="https://github.com/prokopsimek/awesome-developer-experience" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prokopsimek&repo=awesome-developer-experience" alt="Open Source Project" />
+    </a>
+</div>
+
+<br/>
+
+<div>
     <a href="https://github.com/DXHeroes/dx-scanner" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dxheroes&repo=dx-scanner&show_owner=true" alt="Open Source Project" />
     </a>
