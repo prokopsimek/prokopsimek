@@ -28,3 +28,145 @@ Learn more about [DX Heroes](https://dxheroes.io).
 
 <br/>
 
+```
+🌳 Prokop Simek | CEO @ DX Heroes
+├── Development
+│   ├── Languages & Styling
+│   │   ├── TypeScript
+│   │   ├── Ruby
+│   │   ├── Python
+│   │   ├── CSS
+│   │   │   ├── SASS
+│   │   │   └── LESS
+│   ├── Frontend
+│   │   ├── React
+│   │   │   └── Next.js
+│   │   └── Component Development
+│   │       └── Storybook
+│   ├── Backend
+│   │   ├── Node.js
+│   │   │   ├── Restify
+│   │   │   ├── Nest.js
+│   │   │   └── Hono
+│   │   ├── Ruby on Rails
+│   │   ├── Databases
+│   │   │   ├── PostgreSQL
+│   │   │   ├── Redis
+│   │   │   └── Elasticsearch
+│   │   ├── Serverless
+│   │   │   └── AWS Lambda
+│   │   ├── Message Queues
+│   │   │   ├── Apache Kafka
+│   │   │   └── AWS SQS
+│   │   └── Python
+│   ├── API
+│   │   ├── Design & Implementation
+│   │   │   ├── REST
+│   │   │   ├── GraphQL
+│   │   │   ├── API Design
+│   │   │   ├── Swagger/OpenAPI
+│   │   │   └── Postman
+│   │   ├── Versioning
+│   │   │   ├── Semver
+│   │   │   └── 0ver
+│   │   └── Security & Control
+│   │       ├── Rate Limiting
+│   │       ├── API Keys
+│   │       └── Request Validation
+│   ├── Architecture
+│   │   ├── Microservices
+│   │   ├── MVC
+│   │   └── API Gateway
+│   │       ├── Request Routing
+│   │       ├── Load Balancing
+│   │       └── Service Discovery
+│   ├── Security
+│   │   ├── OAuth2/OIDC
+│   │   ├── JWT/JWE
+│   │   └── Identity Management
+│   ├── Testing
+│   │   ├── Unit Testing
+│   │   │   ├── Jest
+│   │   │   └── RSpec
+│   │   └── E2E Testing
+│   │       ├── Cypress
+│   │       └── Selenium
+│   ├── Development Tools
+│   │   ├── VS Code
+│   │   ├── Package Managers
+│   │   │   ├── npm
+│   │   │   ├── yarn
+│   │   │   ├── pnpm
+│   │   │   └── bundler
+│   │   ├── Monorepo
+│   │   │   ├── Lerna
+│   │   │   ├── nx.dev
+│   │   │   └── turborepo
+│   │   └── Code Quality
+│   │       ├── ESLint
+│   │       └── Biome.js
+│   ├── DevOps
+│   │   ├── Version Control
+│   │   │   ├── GitHub
+│   │   │   └── GitLab
+│   │   ├── CI/CD
+│   │   │   ├── GitHub Actions
+│   │   │   ├── GitLab CI/CD
+│   │   │   └── Jenkins
+│   │   ├── Containers
+│   │   │   ├── Docker
+│   │   │   │   └── Docker Swarm
+│   │   │   └── Kubernetes
+│   │   │       └── Helm
+│   │   ├── Infrastructure as Code
+│   │   │   └── Terraform
+│   │   └── Deployment Strategies
+│   │       ├── Blue-Green Deployment
+│   │       ├── Canary Releases
+│   │       ├── Feature Flags
+│   │       └── Rolling Updates
+│   ├── Cloud Platforms
+│   │   ├── AWS
+│   │   ├── Google Cloud Platform
+│   │   ├── Heroku
+│   │   └── Vercel
+│   ├── Platform Engineering
+│   │   ├── Developer Portals
+│   │   ├── Internal Developer Platforms
+│   │   ├── Developer Tooling
+│   │   └── Open Source Contributions
+│   ├── Analytics
+│   │   ├── Google Analytics
+│   │   └── Google Tag Manager
+│   ├── Monitoring
+│   │   ├── Error Tracking
+│   │   │   ├── Sentry
+│   │   │   └── Airbrake
+│   │   ├── Distributed Tracing
+│   │   │   └── Zipkin
+│   │   └── Logging
+│   │       └── ELK Stack
+│   │           ├── Elasticsearch
+│   │           ├── Logstash
+│   │           └── Kibana
+│   ├── Performance
+│   │   ├── Web Vitals
+│   │   ├── Performance Optimization
+│   │   ├── Caching Strategies
+│   │   └── CDN
+│   │       ├── AWS CloudFront
+│   │       └── General CDN
+│   └── Growth Engineering
+│       ├── SEO
+│       └── Technical Marketing
+├── Project Management
+│   └── Agile/Scrum
+├── Product & Business
+│   ├── Developer Experience
+│   ├── Product Strategy
+│   ├── Business Strategy
+│   └── User Research
+└── Leadership
+    ├── Team Building
+    └── Tech Strategy
+```
